@@ -30,7 +30,7 @@ public class Curso {
 		super();
 	}
 
-	public Curso(String nombre, String descripcion, String ubicacion,Instructor instructor) {
+	public Curso(String nombre, String descripcion, String ubicacion, Instructor instructor) {
 		super();
 		this.nombre = nombre;
 		this.descripcion = descripcion;
